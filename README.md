@@ -1,4 +1,4 @@
-![alt=EventManager](https://github.com/kgazcurra/EventManagerWiki/blob/master/bright_long.png)
+![alt=EventManager](https://github.com/kgazcurra/EventManagerWiki/blob/master/bright_logo.png)
 
 ProLibrary is a collection of scripts including **Extensions**, common **Data Structures**, **Pathfinding** algorithms, **Managers** and **Utilities** that were designed to make your work _easier_ and _faster_.
 
@@ -6,6 +6,6 @@ Many times when starting a new project we find ourselves **needing** many of the
 
 By downloading ProLibrary you make sure said scripts are **generic**, well **documented** and being **maintained** by a third party without you having to worry about it.
 
-[Click here to go to the wiki](https://github.com/kgazcurra/ProLibraryWiki/wiki)
+[Click here to go to the wiki](https://github.com/kgazcurra/EventManagerWiki/wiki)
 
 
