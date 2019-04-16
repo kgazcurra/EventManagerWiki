@@ -1,11 +1,11 @@
 ![alt=EventManager](https://github.com/kgazcurra/EventManagerWiki/blob/master/bright_logo.png)
 
-ProLibrary is a collection of scripts including **Extensions**, common **Data Structures**, **Pathfinding** algorithms, **Managers** and **Utilities** that were designed to make your work _easier_ and _faster_.
+**EventManager** is a tool that helps you ensure communication between the elements on your game logic. In other words, it makes it easier to **notify key events to your GameObjects**. 
 
-Many times when starting a new project we find ourselves **needing** many of these scripts. The thing is, we've all used some in previous projects but most of the time they are outdated, not generic enough to simply adapt to our current project, or we might not remember exactly how to use them.
+For example, when the game is over, you want to notify every enemy to stop attacking the player. With EventManager, you can simply **trigger the event** "OnGameOver" and **every element in the game that is subscribed** to this event (in this case, the enemies) **will be notified** of such event and react accordingly.
 
-By downloading ProLibrary you make sure said scripts are **generic**, well **documented** and being **maintained** by a third party without you having to worry about it.
+[Buy Now!](https://github.com/kgazcurra/EventManagerWiki/wiki)
 
-[Click here to go to the wiki](https://github.com/kgazcurra/EventManagerWiki/wiki)
+[Go to Wiki](https://github.com/kgazcurra/EventManagerWiki/wiki)
 
 
